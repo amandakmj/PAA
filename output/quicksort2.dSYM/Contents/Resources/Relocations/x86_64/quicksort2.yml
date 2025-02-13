@@ -1,0 +1,5 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/amanda/PAA/output/quicksort2'
+relocations:     []
+...
